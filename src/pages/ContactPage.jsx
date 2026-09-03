@@ -65,7 +65,7 @@ export default function ContactPage() {
       <PageBanner 
         title="Contact Our Experts" 
         subtitle="Contact Us"
-        image="/unsplash-img/photo-1600585154340-be6161a56a0c?w=1600&fm=webp"
+        image="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&fm=webp"
       />
 
       <section className="contact-section">

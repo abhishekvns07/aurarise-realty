@@ -2,6 +2,10 @@
   "name": "aurarise-realty",
   "rewrites": [
     {
+      "source": "/unsplash-img/(.*)",
+      "destination": "https://images.unsplash.com/$1"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }

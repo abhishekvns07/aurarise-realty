@@ -7,7 +7,7 @@ export default function PageBanner({ title, subtitle, image }) {
   return (
     <section 
       className="page-header-section" 
-      style={{ backgroundImage: `url('${image || '/unsplash-img/photo-1486406146926-c627a92ad1ab?w=1600&fm=webp'}')` }}
+      style={{ backgroundImage: `url('${image || 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&fm=webp'}')` }}
     >
       <div className="page-header-overlay"></div>
       <div className="container-custom page-header-container">

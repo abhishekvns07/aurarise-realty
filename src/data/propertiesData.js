@@ -6,11 +6,11 @@ export const propertiesData = [
     location: "Noida, Sector 150",
     city: "Noida",
     tag: "Ultra Luxury",
-    image: "/unsplash-img/photo-1600585154340-be6161a56a0c?w=350&q=50&auto=format&fit=crop&fm=webp",
+    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=350&q=50&auto=format&fit=crop&fm=webp",
     gallery: [
-      "/unsplash-img/photo-1600585154340-be6161a56a0c?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600607687939-ce8a6c25118c?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600566753376-12c8ab7fb75b?w=800&q=75&auto=format&fit=crop&fm=webp"
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=800&q=75&auto=format&fit=crop&fm=webp"
     ],
     highlight: "Low Density Project (Just 784 Exclusive Units on 15 Acres)",
     description: "ACE 150 in Sector 150, Noida is an ultra-luxurious sports-centric residential sanctuary. Set amidst 15 acres of sprawling lush green landscapes with low density planning, the project features 11 majestic high-rise towers offering world-class 3 & 4 BHK residences with VRV air-conditioning, Italian marble flooring, and modular kitchens.",
@@ -46,11 +46,11 @@ export const propertiesData = [
     location: "Sector 97, Noida",
     city: "Noida",
     tag: "Airport Home",
-    image: "/unsplash-img/photo-1600607687920-4e2a09cf159d?w=350&q=50&auto=format&fit=crop&fm=webp",
+    image: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=350&q=50&auto=format&fit=crop&fm=webp",
     gallery: [
-      "/unsplash-img/photo-1600607687920-4e2a09cf159d?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600566753190-17f0baa2a6c3?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600210492486-724fe5c67fb0?w=800&q=75&auto=format&fit=crop&fm=webp"
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&q=75&auto=format&fit=crop&fm=webp"
     ],
     highlight: "Premium International Standard Living",
     description: "Designed in collaboration with world-renowned fashion icon Elie Saab, Smartworld Residences in Sector 97 Noida represents the pinnacle of branded luxury living. Ideal for NRIs, global travelers, and luxury connoisseurs seeking haute couture interiors and proximity to Jewar International Airport.",
@@ -86,11 +86,11 @@ export const propertiesData = [
     location: "Max Estates, Sector 105, Noida",
     city: "Noida",
     tag: "₹27,000/Sqft",
-    image: "/unsplash-img/photo-1600585154526-990dced4db0d?w=350&q=50&auto=format&fit=crop&fm=webp",
+    image: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=350&q=50&auto=format&fit=crop&fm=webp",
     gallery: [
-      "/unsplash-img/photo-1600585154526-990dced4db0d?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600573472591-ee6b563aaec9?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600566753086-37f1a2077b21?w=800&q=75&auto=format&fit=crop&fm=webp"
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600573472591-ee6b563aaec9?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600566753086-37f1a2077b21?w=800&q=75&auto=format&fit=crop&fm=webp"
     ],
     highlight: "Effective: April-1, 2026 • Wellness Focused Living",
     description: "Max Estate 105 is an ultra-premium, low-density wellness-first residential development in Noida. Combining biophilic design principles with LEED Gold standards, it crafts a living environment centered around holistic health, fresh air purification, and sustainable luxury.",
@@ -126,11 +126,11 @@ export const propertiesData = [
     location: "Sector 45, Noida",
     city: "Noida",
     tag: "Featured",
-    image: "/unsplash-img/photo-1600607687939-ce8a6c25118c?w=350&q=50&auto=format&fit=crop&fm=webp",
+    image: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=350&q=50&auto=format&fit=crop&fm=webp",
     gallery: [
-      "/unsplash-img/photo-1600607687939-ce8a6c25118c?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600585152220-90363fe7e115?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600566752355-35792bedcfea?w=800&q=75&auto=format&fit=crop&fm=webp"
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=75&auto=format&fit=crop&fm=webp"
     ],
     highlight: "Starting at ₹6.61 Crores • FDI-Funded Excellence",
     description: "Experion Elements in Sector 45 Noida is a 100% FDI-funded ultra-luxury development by Singapore-backed Experion Developers. Located in one of Noida's most central sectors, it provides seamless connectivity to South Delhi, DND Flyway, and Golf Course Metro.",
@@ -166,11 +166,11 @@ export const propertiesData = [
     location: "Noida",
     city: "Noida",
     tag: "For Sale",
-    image: "/unsplash-img/photo-1512917774080-9991f1c4c750?w=350&q=50&auto=format&fit=crop&fm=webp",
+    image: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=350&q=50&auto=format&fit=crop&fm=webp",
     gallery: [
-      "/unsplash-img/photo-1512917774080-9991f1c4c750?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1545324418-cc1a3fa10c00?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600607687644-c7171b42498f?w=800&q=75&auto=format&fit=crop&fm=webp"
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=800&q=75&auto=format&fit=crop&fm=webp"
     ],
     highlight: "Wake Up Above the City • Architectural Masterpiece",
     description: "Inspired by the high-watchmaking brilliance of Jacob & Co., JACOB/CO Residence elevates luxury living to celestial heights in Noida. Featuring dramatic high-rise glass architecture, private sky lounges, infinity edge pools, and bespoke concierge services.",
@@ -206,11 +206,11 @@ export const propertiesData = [
     location: "Sector 36A, Gurugram",
     city: "Gurugram",
     tag: "Krisumi Sales",
-    image: "/unsplash-img/photo-1580587771525-78b9dba3b914?w=350&q=50&auto=format&fit=crop&fm=webp",
+    image: "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=350&q=50&auto=format&fit=crop&fm=webp",
     gallery: [
-      "/unsplash-img/photo-1580587771525-78b9dba3b914?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600585154340-be6161a56a0c?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600566753190-17f0baa2a6c3?w=800&q=75&auto=format&fit=crop&fm=webp"
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&q=75&auto=format&fit=crop&fm=webp"
     ],
     highlight: "Book Your Dream Home Now • Indo-Japanese Craftsmanship",
     description: "Waterside Residences at Krisumi City in Sector 36A Gurugram is a joint venture between Sumitomo Corporation (Japan) and Krishna Group (India). Bringing authentic Japanese engineering, minimalism, and serene water features to the heart of Gurugram.",
@@ -246,11 +246,11 @@ export const propertiesData = [
     location: "Sector 80, Gurugram",
     city: "Gurugram",
     tag: "Featured",
-    image: "/unsplash-img/photo-1600596542815-ffad4c1539a9?w=350&q=50&auto=format&fit=crop&fm=webp",
+    image: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=350&q=50&auto=format&fit=crop&fm=webp",
     gallery: [
-      "/unsplash-img/photo-1600596542815-ffad4c1539a9?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600585154526-990dced4db0d?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600607687920-4e2a09cf159d?w=800&q=75&auto=format&fit=crop&fm=webp"
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=75&auto=format&fit=crop&fm=webp"
     ],
     highlight: "The Greenest Address in Sector 80 • 80% Open Green Space",
     description: "Conscient ParQ in Sector 80 Gurugram offers high-rise luxury apartments enveloped in pristine green landscapes. Nestled close to the Aravalli hills, it features 3 & 4 BHK residences with expansive balconies, eco-conscious planning, and world-class sports amenities.",
@@ -286,11 +286,11 @@ export const propertiesData = [
     location: "Greater Noida",
     city: "Greater Noida",
     tag: "New Launch",
-    image: "/unsplash-img/photo-1545324418-cc1a3fa10c00?w=350&q=50&auto=format&fit=crop&fm=webp",
+    image: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=350&q=50&auto=format&fit=crop&fm=webp",
     gallery: [
-      "/unsplash-img/photo-1545324418-cc1a3fa10c00?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1512917774080-9991f1c4c750?w=800&q=75&auto=format&fit=crop&fm=webp",
-      "/unsplash-img/photo-1600566753376-12c8ab7fb75b?w=800&q=75&auto=format&fit=crop&fm=webp"
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=75&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=800&q=75&auto=format&fit=crop&fm=webp"
     ],
     highlight: "Limited Exclusive Price: ₹10,000/PSF • Landmark Tower",
     description: "ICONIC by Trilive is a futuristic 45-storey single luxury tower in Greater Noida. Designed for exclusive, private high-rise living with only 4 units per floor, private high-speed elevators, and a spectacular sky infinity swimming pool at 500+ feet.",
@@ -325,25 +325,25 @@ export const citiesData = [
   {
     name: "Noida",
     count: "15+ Luxury Projects",
-    image: "/unsplash-img/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&fm=webp",
+    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&fm=webp",
     gridClass: "bento-col-8"
   },
   {
     name: "Gurugram",
     count: "20+ Premium Properties",
-    image: "/unsplash-img/photo-1512917774080-9991f1c4c750?w=350&q=50&auto=format&fit=crop&fm=webp",
+    image: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=350&q=50&auto=format&fit=crop&fm=webp",
     gridClass: "bento-col-4"
   },
   {
     name: "Delhi",
     count: "8+ Prime Estates",
-    image: "/unsplash-img/photo-1600596542815-ffad4c1539a9?w=350&q=50&auto=format&fit=crop&fm=webp",
+    image: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=350&q=50&auto=format&fit=crop&fm=webp",
     gridClass: "bento-col-5"
   },
   {
     name: "Greater Noida",
     count: "12+ High-Return Hubs",
-    image: "/unsplash-img/photo-1545324418-cc1a3fa10c00?w=350&q=50&auto=format&fit=crop&fm=webp",
+    image: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=350&q=50&auto=format&fit=crop&fm=webp",
     gridClass: "bento-col-7"
   }
 ];
@@ -353,18 +353,18 @@ export const testimonialsData = [
     text: "Aura Rise Realty helped us secure our dream 4BHK home at ACE 150. Shubham Mehta and his team were completely transparent about pricing, builder reputation, and legal documentation. Highly recommended!",
     name: "Rajesh Malhotra",
     role: "IT Director & Homeowner",
-    avatar: "/unsplash-img/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&fm=webp"
+    avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&fm=webp"
   },
   {
     text: "As an NRI investor looking for premium property in Noida near Jewar Airport, finding Aura Rise Realty was the best decision. Their market knowledge and practical guidance gave me 100% confidence.",
     name: "Vikram & Ananya Sethi",
     role: "NRI Investors (Dubai)",
-    avatar: "/unsplash-img/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&fm=webp"
+    avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&fm=webp"
   },
   {
     text: "Professional, punctual, and genuine guidance. Unlike traditional brokers, Aura Rise Realty focuses on long-term relationship and honest consultation. Seamless experience buying in Sector 80 Gurugram!",
     name: "Pooja Sharma",
     role: "Senior Consultant",
-    avatar: "/unsplash-img/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&fm=webp"
+    avatar: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&fm=webp"
   }
 ];

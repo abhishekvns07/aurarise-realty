@@ -24,7 +24,7 @@ export default function AboutPage() {
       <PageBanner 
         title="About us" 
         subtitle="About Us"
-        image="/unsplash-img/photo-1486406146926-c627a92ad1ab?w=1000&q=75&auto=format&fit=crop&fm=webp"
+        image="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1000&q=75&auto=format&fit=crop&fm=webp"
       />
 
       {/* Who We Are */}
@@ -45,7 +45,7 @@ export default function AboutPage() {
 
             <div className="about-image-wrapper">
               <img 
-                src="/unsplash-img/photo-1486406146926-c627a92ad1ab?w=800&q=75&auto=format&fit=crop&fm=webp" 
+                src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=75&auto=format&fit=crop&fm=webp" 
                 alt="Aura Rise Corporate Office Exterior" 
                 className="about-img"
                 loading="lazy"
@@ -90,7 +90,7 @@ export default function AboutPage() {
           <div className="founder-grid" style={{ marginBottom: '60px' }}>
             <div className="founder-img-wrapper">
               <img 
-                src="/unsplash-img/photo-1560250097-0b93528c311a?w=500&q=70&auto=format&fit=crop&fm=webp" 
+                src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=500&q=70&auto=format&fit=crop&fm=webp" 
                 alt="Shubham Mehta - Founder & CEO" 
                 className="founder-img"
                 loading="lazy"
