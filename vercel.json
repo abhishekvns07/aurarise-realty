@@ -1,4 +1,5 @@
 {
+  "name": "aurarise-realty",
   "rewrites": [
     {
       "source": "/(.*)",
