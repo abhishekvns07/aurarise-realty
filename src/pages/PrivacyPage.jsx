@@ -7,7 +7,7 @@ export default function PrivacyPage() {
       <PageBanner 
         title="Privacy Policy" 
         subtitle="Privacy Policy"
-        image="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1600&fm=webp"
+        image="/images/img_1516321318423-f06f85e504b3.webp"
       />
 
       <section className="legal-page-section">

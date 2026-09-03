@@ -302,7 +302,7 @@ export default function HomePage({ onOpenInquiry }) {
           <div className="founder-grid">
             <div className="founder-img-wrapper">
               <img 
-                src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=500&q=70&auto=format&fit=crop&fm=webp" 
+                src="/images/img_1560250097-0b93528c311a.webp" 
                 alt="Shubham Mehta - Founder & CEO, Aura Rise Realty" 
                 className="founder-img"
                 width="500"

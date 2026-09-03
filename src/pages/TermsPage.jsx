@@ -7,7 +7,7 @@ export default function TermsPage() {
       <PageBanner 
         title="Terms Of Service" 
         subtitle="Terms Of Service"
-        image="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&fm=webp"
+        image="/images/img_1451187580459-43490279c0fa.webp"
       />
 
       <section className="legal-page-section">

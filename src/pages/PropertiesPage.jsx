@@ -10,7 +10,7 @@ export default function PropertiesPage() {
       <PageBanner 
         title="Our Properties" 
         subtitle="Properties"
-        image="https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1600&fm=webp"
+        image="/images/img_1545324418-cc1a3fa10c00.webp"
       />
 
       <section className="featured-projects-section">
