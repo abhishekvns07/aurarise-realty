@@ -323,48 +323,66 @@ export const propertiesData = [
 
 export const citiesData = [
   {
-    name: "Noida",
-    count: "15+ Luxury Projects",
-    image: "/images/img_1600585154340-be6161a56a0c.webp",
-    gridClass: "bento-col-8"
-  },
-  {
     name: "Gurugram",
-    count: "20+ Premium Properties",
+    count: "281 PROPERTY",
     image: "/images/img_1512917774080-9991f1c4c750.webp",
     gridClass: "bento-col-4"
   },
   {
-    name: "Delhi",
-    count: "8+ Prime Estates",
-    image: "/images/img_1600596542815-ffad4c1539a9.webp",
-    gridClass: "bento-col-5"
+    name: "Greater Noida",
+    count: "120 PROPERTY",
+    image: "/images/img_1545324418-cc1a3fa10c00.webp",
+    gridClass: "bento-col-4"
   },
   {
-    name: "Greater Noida",
-    count: "12+ High-Return Hubs",
-    image: "/images/img_1545324418-cc1a3fa10c00.webp",
-    gridClass: "bento-col-7"
+    name: "Indirapuram",
+    count: "232 PROPERTY",
+    image: "/images/img_1600596542815-ffad4c1539a9.webp",
+    gridClass: "bento-col-4"
+  },
+  {
+    name: "Yamuna Expressway",
+    count: "123 PROPERTY",
+    image: "/images/img_1600585152220-90363fe7e115.webp",
+    gridClass: "bento-col-3"
+  },
+  {
+    name: "Ghaziabad",
+    count: "220 PROPERTY",
+    image: "/images/img_1600566753376-12c8ab7fb75b.webp",
+    gridClass: "bento-col-3"
+  },
+  {
+    name: "Noida",
+    count: "211 PROPERTY",
+    image: "/images/img_1600585154340-be6161a56a0c.webp",
+    gridClass: "bento-col-3"
+  },
+  {
+    name: "Faridabad",
+    count: "200 PROPERTY",
+    image: "/images/img_1600607687920-4e2a09cf159d.webp",
+    gridClass: "bento-col-3"
   }
 ];
 
 export const testimonialsData = [
   {
-    text: "Aura Rise Realty helped us secure our dream 4BHK home at ACE 150. Shubham Mehta and his team were completely transparent about pricing, builder reputation, and legal documentation. Highly recommended!",
-    name: "Rajesh Malhotra",
-    role: "IT Director & Homeowner",
-    avatar: "/images/img_1534528741775-53994a69daeb.webp"
+    text: "Exceptional ethical business practices. Their transparent pricing models and clear communication updates stand out in Delhi NCR real estate. Truly dependable consultants.",
+    name: "Rohan Verma",
+    role: "BUSINESS CONSULTANT",
+    avatar: "/images/img_1573496359142-b8d87734a5a2.webp"
   },
   {
-    text: "As an NRI investor looking for premium property in Noida near Jewar Airport, finding Aura Rise Realty was the best decision. Their market knowledge and practical guidance gave me 100% confidence.",
-    name: "Vikram & Ananya Sethi",
-    role: "NRI Investors (Dubai)",
+    text: "Working with Aurarise Realty made our investment journey seamless. Their transparency and deep understanding of the Yamuna Expressway market helped us secure a premium plot effortlessly.",
+    name: "Amit Sharma",
+    role: "PROPERTY INVESTOR",
     avatar: "/images/img_1507003211169-0a1dd7228f2d.webp"
   },
   {
-    text: "Professional, punctual, and genuine guidance. Unlike traditional brokers, Aura Rise Realty focuses on long-term relationship and honest consultation. Seamless experience buying in Sector 80 Gurugram!",
-    name: "Pooja Sharma",
-    role: "Senior Consultant",
-    avatar: "/images/img_1573496359142-b8d87734a5a2.webp"
+    text: "Highly professional team! They customized a commercial office strategy that perfectly matched our budget and growth target in Noida. The clear legal advice gave us total peace of mind.",
+    name: "Priya Malhotra",
+    role: "CORPORATE CLIENT",
+    avatar: "/images/img_1534528741775-53994a69daeb.webp"
   }
 ];

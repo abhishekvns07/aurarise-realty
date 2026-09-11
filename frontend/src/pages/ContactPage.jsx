@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import PageBanner from '../components/PageBanner';
 import { Facebook, Instagram, Phone, Mail, MapPin } from 'lucide-react';
+import { submitContactMessage } from '../services/api';
 
 export default function ContactPage() {
   const [formData, setFormData] = useState({
@@ -31,6 +32,7 @@ export default function ContactPage() {
     };
 
     try {
+      const backendReq = submitContactMessage(payload);
       const res1 = fetch('https://formspree.io/f/xaqgerpp', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
@@ -43,7 +45,7 @@ export default function ContactPage() {
         body: JSON.stringify(payload)
       });
 
-      const [r1] = await Promise.allSettled([res1, res2]);
+      await Promise.allSettled([backendReq, res1, res2]);
       alert('✅ Message sent successfully! Our team will get back to you shortly.');
       setFormData({
         fullName: '',

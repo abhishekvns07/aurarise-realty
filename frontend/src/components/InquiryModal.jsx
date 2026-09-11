@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { X, ChevronDown } from 'lucide-react';
 import { propertiesData } from '../data/propertiesData';
 
+import { submitInquiry } from '../services/api';
+
 export default function InquiryModal({ isOpen, onOpen, onClose, defaultProperty = '' }) {
   const [formData, setFormData] = useState({
     name: '',
@@ -13,8 +15,6 @@ export default function InquiryModal({ isOpen, onOpen, onClose, defaultProperty 
   const [errors, setErrors] = useState({});
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [hasDismissed, setHasDismissed] = useState(false);
-
-
 
   useEffect(() => {
     if (defaultProperty) {
@@ -67,11 +67,11 @@ export default function InquiryModal({ isOpen, onOpen, onClose, defaultProperty 
       name: formData.name,
       phone: formData.phone,
       email: formData.email,
-      property: formData.property,
-      subject: 'Instant Property Inquiry'
+      property: formData.property
     };
 
     try {
+      const backendReq = submitInquiry(payload);
       const res1 = fetch('https://formspree.io/f/xwvdlgoo', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
@@ -84,7 +84,7 @@ export default function InquiryModal({ isOpen, onOpen, onClose, defaultProperty 
         body: JSON.stringify(payload)
       });
 
-      await Promise.allSettled([res1, res2]);
+      await Promise.allSettled([backendReq, res1, res2]);
       alert('✅ Thank you! Our property consultants will contact you shortly.');
       setFormData({ name: '', phone: '', email: '', property: '' });
       handleModalClose();

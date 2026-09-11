@@ -51,8 +51,11 @@ export default function App() {
           <Routes>
             <Route path="/" element={<HomePage onOpenInquiry={handleOpenInquiry} />} />
             <Route path="/about-us" element={<AboutPage />} />
-            <Route path="/properties" element={<PropertiesPage />} />
+            <Route path="/properties" element={<PropertiesPage onOpenInquiry={handleOpenInquiry} />} />
             <Route path="/projects/:id/:slug" element={<PropertyDetailPage onOpenInquiry={handleOpenInquiry} />} />
+            <Route path="/projects/:id" element={<PropertyDetailPage onOpenInquiry={handleOpenInquiry} />} />
+            <Route path="/properties/:id/:slug" element={<PropertyDetailPage onOpenInquiry={handleOpenInquiry} />} />
+            <Route path="/properties/:id" element={<PropertyDetailPage onOpenInquiry={handleOpenInquiry} />} />
             <Route path="/contact-us" element={<ContactPage />} />
             <Route path="/term-of-services" element={<TermsPage />} />
             <Route path="/terms-of-service" element={<TermsPage />} />

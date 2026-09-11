@@ -1,7 +1,28 @@
-node_modules
-dist
-dist-ssr
+# Node / Vite Frontend dependencies & build outputs
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
 *.local
+
+# Java / Maven Backend build outputs & logs
+backend/target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+backend/*.log
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# OS / Environment files
 .env
-.env.*
-!.env.example
+.env.local
+.env.*.local
